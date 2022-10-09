@@ -1,18 +1,10 @@
 
 <div align="center">
   <a href="https://ejvali.eu"><img alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"></a><br>
-  <a href="https://tiktok.com/@ejvali">
-    <img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
-  <a href="https://instagram.com/ejvali">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://twitter.com/ejvali">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://youtube.com/channel/UC-0Sew1gcgKsuF74S10tCAA">
-    <img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
+  <a href="https://tiktok.com/@ejvali"><img alt="Tiktok" src="https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+  <a href="https://instagram.com/ejvali"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/ejvali"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://youtube.com/channel/UC-0Sew1gcgKsuF74S10tCAA"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <br><br><a href="https://ejvali.eu"><img alt="Greeting" src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+DevVali!&center=true&width=380&height=45"></a>
 </div>
 
