@@ -8,13 +8,13 @@
   <br><br><a href="https://ejvali.eu"><img alt="Greeting" src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+DevVali!&center=true&width=380&height=45"></a>
 </div>
 
-<p>I'm mainly a student and a free-time developer. I love coding, playing games and writing documentations. Check out @ <a href="https://games.ejvali.eu">games.ejvali.eu</a>. <br><br><em>Member of <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://github.com/DevVali/Boostyle">Boostyle</a>.</em></p>
+<p>I'm mainly a student and a free-time developer. I love coding, playing games and writing documentations. Check out @ <a href="https://games.ejvali.eu">games.ejvali.eu</a>. <br><br><em>Member of <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://github.com/DevVali/Boostyle">Boostyle</a>. Working on <a href="https://fiddleit.ejvali.eu">my own code editor</a>.</em></p>
 <h2>About me:</h2>
 <p>
-  - 🔭 I’m currently working on <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://games.ejvali.eu">games.ejvali.eu</a><br>
+  - 🔭 I’m currently working on <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://fiddleit.ejvali.eu">fiddleit</a><br>
   - 🌱 I’m currently learning PHP and Python<br>
   - 👯 I’m looking to collaborate on <a href="https://cloudteam.me">CloudTeam</a><br>
-  - 🤔 I’m looking for help with <a href="https://testtool.ejvali.eu">TestTool</a><br>
+  - 🤔 I’m looking for help with <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://fiddleit.ejvali.eu">fiddleit</a><br>
   - 💬 Ask me about my favorite project<br>
   - 📫 How to reach me: ejvali@ejvali.eu<br>
   - 😄 Pronouns: they/it<br>
