@@ -1,7 +1,6 @@
 
 <div align="center">
   <a href="https://ejvali.eu"><img alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"></a><br>
-  <a href="https://instagram.com/ejvali"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <br><br><a href="https://ejvali.eu"><img alt="Greeting" src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+DevVali!&center=true&width=380&height=45"></a>
 </div>
 
