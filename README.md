@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://ejvali.eu"><img alt="Gif" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"></a><br>
-  <br><br><a href="https://ejvali.eu"><img alt="Greeting" src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+DevVali!&center=true&width=380&height=45"></a>
+  <br><a href="https://ejvali.eu"><img alt="Greeting" src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+DevVali!&center=true&width=380&height=45"></a>
 </div>
 
 <p>I'm mainly a student and a free-time developer. I love coding, playing games and writing documentations. Check out @ <a href="https://games.ejvali.eu">games.ejvali.eu</a>. <br><br><em>Member of <a href="https://testtool.ejvali.eu">TestTool</a> and <a href="https://github.com/DevVali/Boostyle">Boostyle</a>. Working on <a href="https://fiddleit.ejvali.eu">my own code editor</a>.</em></p>
