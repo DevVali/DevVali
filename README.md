@@ -1,5 +1,3 @@
-# DevVali &lt;ejvali&gt;
-
 ```php
 <?php echo password_verify("DevVali", password_hash("DevVali", PASSWORD_DEFAULT)); 
 ```
